@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Selhab Ahmed Yakoub 👋</h1>
+<h1 align="center">Hello, I'm Selhab Ahmed Yakoub </h1>
 <h3 align="center">Frontend Developer | Digital Production Engineer | React Enthusiast</h3>
 
 <div align="center">
@@ -72,11 +72,3 @@ I’m also exploring how **frontend technologies** can empower **digital product
 ![Snake Animation](https://github.com/selhabAhmedyakoub/selhabAhmedyakoub/blob/output/snake-dark.svg)
 
 ---
-
-## 🌍 Connect With Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-yakoub-selhab-b29124211/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:selhabahmedyakoub@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/selhab_ahmed2_djakoub/)
-[![Whatsapp](https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=213779356520)
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/selhabahmeb)
