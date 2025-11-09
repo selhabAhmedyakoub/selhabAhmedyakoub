@@ -23,9 +23,6 @@
 I'm **Selhab Ahmed Yakoub**, a passionate **Frontend Developer** currently based in **Germany**, pursuing a degree in **Digital Production Engineering**.  
 Alongside my studies, I’m working **part-time as a Software Developer** at **Fraunhofer IOSB-INA**, where I contribute to digitalization and network-related projects.
 
-💡 I love building **modern web interfaces** that connect **software with real-world engineering systems**.  
-I’m also exploring how **frontend technologies** can empower **digital production and industrial innovation**.
-
 - 🔭 **Currently working on:** Frontend apps and network systems at Fraunhofer IOSB-INA  
 - 🌱 **Learning:** Vue.js & advanced TypeScript patterns  
 - 💼 **Open to:** Roles and collaborations in digital engineering and smart industry projects  
