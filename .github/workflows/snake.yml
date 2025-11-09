@@ -1,35 +1,38 @@
-name: Generate snake animation
+name: Generate Snake Animation 🐍
 
 on:
   schedule:
+    # Runs every 12 hours
     - cron: "0 */12 * * *"
-  workflow_dispatch:
+  workflow_dispatch: # Allows manual run
   push:
     branches:
-      - main
+      - main # Run on pushes to main branch
 
 jobs:
   generate:
+    name: Generate Snake Files
+    runs-on: ubuntu-latest
     permissions:
       contents: write
-    runs-on: ubuntu-latest
     timeout-minutes: 5
 
     steps:
-      - name: Checkout repository
+      - name: 🧩 Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Generate snake animation
+      - name: 🐍 Generate Snake Animation
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: selhabAhmedyakoub
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
             dist/snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Deploy to output branch
+      - name: 🚀 Deploy Snake Animation to output branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
