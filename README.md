@@ -18,7 +18,7 @@
 
 </div>
 
-<img align="right" height="200" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="coding gif"/>
+<img align="right" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="data gif"/>
 
 I'm **Selhab Ahmed Yakoub**, a passionate **Frontend Developer** currently based in **Germany 🇩🇪**, pursuing a degree in **Digital Production Engineering**.  
 Alongside my studies, I’m working **part-time as a Software Developer** at **Fraunhofer IOSB-INA**, where I contribute to digitalization and network-related projects.
