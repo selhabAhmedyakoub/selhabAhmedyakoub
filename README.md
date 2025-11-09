@@ -24,7 +24,7 @@ I'm **Selhab Ahmed Yakoub**, a passionate **Frontend Developer** currently based
 Alongside my studies, I’m working **part-time as a Software Developer** at **Fraunhofer IOSB-INA**, where I contribute to digitalization and network-related projects.
 
 - 🔭 **Currently working on:** Frontend apps and wireless network systems at Fraunhofer IOSB-INA  
-- 🌱 **Learning:** Vue.js & Angular
+- 🌱 **Learning:** Vue.js & Docker
 - 💼 **Open to:** Roles and collaborations in digital production and smart industry projects  
 - 📫 **Reach me at:** [selhabahmedyakoub@gmail.com](mailto:selhabahmedyakoub@gmail.com)
 
@@ -46,7 +46,6 @@ Alongside my studies, I’m working **part-time as a Software Developer** at **F
 ### Tools & Technologies  
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
-  <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="40" alt="Node.js" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="GitLab" />
