@@ -1,58 +1,82 @@
-<h1 align="center">Hello! <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> --> My Name is Yakoub, Welcome To My Github Profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=frontend%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p> 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
+<h1 align="center">Hello, I'm Selhab Ahmed Yakoub 👋</h1>
+<h3 align="center">Frontend Developer | Digital Production Engineer | React Enthusiast</h3>
 
-<h3>🚀 About Me</h3> 
-<h4> I'm Selhab Ahmed Yakoub from Algeria. A highly motivated Front-end developer with a Bachelor's degree in Computer Science From Batna 2 University. </h4>
-<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 45% height=95px>
+<div align="center">
+  
+[![Profile Views](https://komarev.com/ghpvc/?username=selhabAhmedyakoub&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/selhabAhmedyakoub)
+[![GitHub Followers](https://img.shields.io/github/followers/selhabAhmedyakoub?style=social)](https://github.com/selhabAhmedyakoub)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-yakoub-selhab-b29124211/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:selhabahmedyakoub@gmail.com)
 
-### Languages and Tools 🛠 : 
-<div>
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50"  />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="git" width="40" height="40"/> </a>
 </div>
 
+---
 
-<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
+<div align="left">
 
- ### Connect with Me :
+## 🚀 About Me  
 
-[![FaceBook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/youssefkj)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-yakoub-selhab-b29124211/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:selhabahmedyakoub@gmail.com)](mailto:selhabahmedyakoub@gmail.com)
-[![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=213779356520)
-[![Instagram](https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/selhab_ahmed2_djakoub/)
-[![Buymeacoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/selhabahmeb)
-
-
-
-
-## Expanding Horizons: Skills on My Learning Radar 🎯
-
-<div >  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />    
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
 </div>
 
+<img align="right" height="200" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="coding gif"/>
 
-<br>
+I'm **Selhab Ahmed Yakoub**, a passionate **Frontend Developer** currently based in **Germany 🇩🇪**, pursuing a degree in **Digital Production Engineering**.  
+Alongside my studies, I’m working **part-time as a Software Developer** at **Fraunhofer IOSB-INA**, where I contribute to digitalization and network-related projects.
 
+💡 I love building **modern web interfaces** that connect **software with real-world engineering systems**.  
+I’m also exploring how **frontend technologies** can empower **digital production and industrial innovation**.
 
+- 🔭 **Currently working on:** Frontend apps and network systems at Fraunhofer IOSB-INA  
+- 🌱 **Learning:** Vue.js & advanced TypeScript patterns  
+- 💼 **Interests:** Frontend development, IoT systems, industrial networks  
+- 🤝 **Open to:** Collaborations in digital engineering and smart industry projects  
+- 📫 **Reach me at:** [selhabahmedyakoub@gmail.com](mailto:selhabahmedyakoub@gmail.com)
 
+---
 
+## 🛠️ Tech Stack  
 
+### Frontend  
+<div align="left">
+  <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="40" alt="React" />
+  <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="40" alt="TypeScript" />
+  <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="40" alt="HTML5" />
+  <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="40" alt="CSS3" />
+  <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="40" alt="TailwindCSS" />
+  <img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" height="40" alt="Sass" />
+</div>
 
+### Backend & Tools  
+<div align="left">
+  <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="40" alt="Node.js" />
+  <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" height="40" alt="Express.js" />
+  <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="40" alt="MongoDB" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selhabAhmedyakoub&layout=compact&theme=dark&hide_border=true)
+---
+
+## 📈 GitHub Stats  
+
+<div align="center">
+   
+<img src="https://github-readme-stats.vercel.app/api?username=selhabAhmedyakoub&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true" height="150" alt="GitHub stats" />
+<img src="https://streak-stats.demolab.com?user=selhabAhmedyakoub&theme=dark&hide_border=true" height="150" alt="GitHub streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=selhabAhmedyakoub&layout=compact&langs_count=6&theme=dark&hide_border=true" height="150" alt="Top languages" />
+
+</div>
+
+![Snake Animation](https://github.com/selhabAhmedyakoub/selhabAhmedyakoub/blob/output/snake-dark.svg)
+
+---
+
+## 🌍 Connect With Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-yakoub-selhab-b29124211/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:selhabahmedyakoub@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/selhab_ahmed2_djakoub/)
+[![Whatsapp](https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=213779356520)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/selhabahmeb)
