@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Selhab Ahmed Yakoub </h1>
-<h3 align="center">Frontend Developer | Digital Production Student | Wireless Networks Enthusiast</h3>
+<h3 align="center">Software Developer | Digital Production Student | Wireless Networks Enthusiast</h3>
 
 <div align="center">
   
